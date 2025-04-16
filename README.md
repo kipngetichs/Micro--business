@@ -1,1 +1,8 @@
-# Micro--business
+# Empowering Dreams: Strengthening ROSCAs for Micro-Businesses in Rural Africa!
+# Assessing the Impact of Informal Lending Networks on Micro-Business Sustainability
+# Situation
+ROSCAs are a lifeline for micro-business owners in rural Africa, but they’re not working well enough! Imagine small shop owners in places like Bungoma, struggling to grow because loans are hard to repay. In this project, we analyzed data from  1000 micro-business owners, where 283 are at risk of failing due to big groups and tough repayment rules. We’ll uncover why large groups, weekly payments, and loan misuse affects ROSCAs and how to help them thrive.
+# Task
+As a data analyst, my job was to find out why ROSCAs are failing micro-businesses and fix it. I needed to check things like group size, repayment schedules, and how loans are used to spot businesses in danger. I worked with my team for three months to finish this project. Our goals were to find the big problems, build a prediction system to catch risks early, help ROSCA leaders act fast, and send support to the neediest businesses.
+# Action
+I started by pulling data from our table, [MicroBusiness].[dbo].[Cleaned dataset roscas]. Using SQL Server, I cleaned it up—fixed missing numbers and removed duplicates to make it ready. Then, I analyzed it with SQL to find patterns, like why 65% of businesses in large groups struggle to repay or 50% use loans for emergencies, not growth. I used Python to build a linear regression model, predicting which businesses are at risk based on group size and repayment frequency. Finally, I created a clear dashboard in Power BI to show the crisis. Check out the dashboard preview below!
